@@ -1,2 +1,3 @@
 # tweet_scheduler
-A script to shedule tweets made using python
+
+##A script to shedule tweets made using python
